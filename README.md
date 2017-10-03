@@ -6,7 +6,7 @@
 This is a simple [webcrypto](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API) shim for node.js that fallsback to native webcrypto when browserified. It is based off of [node-webcrypto-ossl](https://www.npmjs.com/package/node-webcrypto-ossl).
 
 # INSTALL
-`npm install <name>`
+`npm install node-webcrypto-shim`
 
 # USAGE
 
