@@ -1,0 +1,32 @@
+{
+  "name": "node-webcrypto-shim",
+  "version": "0.0.0",
+  "description": "",
+  "main": "crypto.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "keywords": [
+    "webcrypto",
+    "node"
+  ],
+  "author": "mjbecze <mjbecze@gmail.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "node-webcrypto-ossl": "^1.0.31"
+  },
+  "devDependencies": {
+    "standard": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wanderer/node-webcrypto-shim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wanderer/node-webcrypto-shim/issues"
+  },
+  "homepage": "https://github.com/wanderer/node-webcrypto-shim",
+  "browser": {
+    "./crypto.js": "./browser-crypto.js"
+  }
+}
