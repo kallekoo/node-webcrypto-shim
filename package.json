@@ -4,7 +4,8 @@
   "description": "",
   "main": "crypto.js",
   "scripts": {
-    "lint": "standard"
+    "lint": "standard",
+    "test": "node ./test/index.js"
   },
   "keywords": [
     "webcrypto",
@@ -16,7 +17,8 @@
     "node-webcrypto-ossl": "^1.0.31"
   },
   "devDependencies": {
-    "standard": "^10.0.0"
+    "standard": "^10.0.0",
+    "tape": "^4.8.0"
   },
   "repository": {
     "type": "git",
