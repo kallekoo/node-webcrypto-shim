@@ -1,6 +1,4 @@
 # SYNOPSIS 
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/wanderer/node-webcrypto-shim.svg)](https://greenkeeper.io/)
 [![NPM Package](https://img.shields.io/npm/v/node-webcrypto-shim.svg?style=flat-square)](https://www.npmjs.org/package/node-webcrypto-shim)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)  
