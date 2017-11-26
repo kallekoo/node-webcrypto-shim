@@ -11,7 +11,7 @@ This is a simple [webcrypto](https://developer.mozilla.org/en-US/docs/Web/API/We
 # USAGE
 
 ```javascript
-const crypto = require('node-webcrypto-ossl')
+const crypto = require('node-webcrypto-shim')
 ```
 
 # LICENSE
