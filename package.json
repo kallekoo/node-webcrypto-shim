@@ -14,7 +14,7 @@
   "author": "mjbecze <mjbecze@gmail.com>",
   "license": "MPL-2.0",
   "dependencies": {
-    "node-webcrypto-ossl": "^1.0.31"
+    "node-webcrypto-ossl": "^1.0.39"
   },
   "devDependencies": {
     "standard": "^11.0.0",
