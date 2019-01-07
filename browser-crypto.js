@@ -1,1 +1,1 @@
-module.exports = window.crypto
+module.exports = crypto;
